@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2.5in"
+   height="3.5in"
+   viewBox="0 0 63.5 88.9"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.9628562"
+     inkscape:cx="151.56485"
+     inkscape:cy="137.55465"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#9eb6ff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+       id="rect2295"
+       width="59.972221"
+       height="85.372223"
+       x="1.7638888"
+       y="1.7638888"
+       rx="3.5277777"
+       ry="3.5277777"
+       inkscape:label="Background" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+       id="rect2829"
+       width="59.972221"
+       height="71.261108"
+       x="1.7638888"
+       y="8.8194447"
+       inkscape:label="Background" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.6875px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;text-align:center;text-anchor:middle;fill:#fffefc;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+       x="33.565254"
+       y="58.635849"
+       id="text1267"
+       inkscape:label="Large hex representation"><tspan
+         sodipodi:role="line"
+         id="tspan1265"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.6875px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;text-align:center;text-anchor:middle;fill:#fffefc;fill-opacity:1;stroke:none;stroke-width:1.05833"
+         x="33.565254"
+         y="58.635849">FD</tspan></text>
+    <path
+       style="display:none;fill:none;stroke:#000000;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:0.477218;stop-color:#000000"
+       d="M 0,44.45 H 63.5"
+       id="path1061"
+       sodipodi:nodetypes="cc"
+       inkscape:label="symmetry reference line"
+       sodipodi:insensitive="true" />
+    <g
+       id="g2235"
+       inkscape:label="Top of card"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:1.05833;stroke-linejoin:round;stop-color:#000000"
+         x="59.929264"
+         y="7.4436135"
+         id="text233"
+         inkscape:label="hex representation"><tspan
+           sodipodi:role="line"
+           id="tspan231"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:1.05833"
+           x="59.929264"
+           y="7.4436135">0xFD</tspan></text>
+      <g
+         id="g1395"
+         inkscape:label="Binary Representation">
+        <circle
+           style="fill:#ff0000;fill-opacity:1;stroke:#f60000;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="path1371"
+           cx="6.5263863"
+           cy="16.756943"
+           r="2.1166666"
+           inkscape:label="bit_7" />
+        <circle
+           style="fill:#ff7c00;fill-opacity:1;stroke:#ff7f00;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="circle1373"
+           cx="13.581938"
+           cy="16.756943"
+           r="2.1166666"
+           inkscape:label="bit_6" />
+        <circle
+           style="fill:#e7e000;fill-opacity:1;stroke:#e7e000;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="circle1375"
+           cx="20.637487"
+           cy="16.756943"
+           r="2.1166666"
+           inkscape:label="bit_5" />
+        <circle
+           style="fill:#cde900;fill-opacity:1;stroke:#cde900;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="circle1377"
+           cx="27.693037"
+           cy="16.756943"
+           r="2.1166666"
+           inkscape:label="bit_4" />
+        <circle
+           style="fill:#00ffff;fill-opacity:1;stroke:#00ffff;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="circle1379"
+           cx="35.806938"
+           cy="16.756943"
+           r="2.1166666"
+           inkscape:label="bit_3" />
+        <circle
+           style="fill:#0080ff;fill-opacity:1;stroke:#0080ff;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="circle1381"
+           cx="42.862526"
+           cy="16.756943"
+           r="2.1166666"
+           inkscape:label="bit_2" />
+        <circle
+           style="fill:none;fill-opacity:1;stroke:#8000ff;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="circle1383"
+           cx="49.918114"
+           cy="16.756943"
+           r="2.1166666"
+           inkscape:label="bit_1" />
+        <circle
+           style="fill:#ff0080;fill-opacity:1;stroke:#ff0080;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="circle1385"
+           cx="56.973701"
+           cy="16.756943"
+           r="2.1166666"
+           inkscape:label="bit_0" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:1.05833;stroke-linejoin:round;stop-color:#000000"
+         x="3.1467776"
+         y="7.4436135"
+         id="text1001"
+         inkscape:label="decimal representation"><tspan
+           sodipodi:role="line"
+           id="tspan999"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:1.05833"
+           x="3.1467776"
+           y="7.4436135">253</tspan></text>
+    </g>
+    <g
+       id="g2220"
+       transform="rotate(180,31.495692,44.185437)"
+       style="display:inline"
+       inkscape:label="Bottom of card">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:1.05833;stroke-linejoin:round;stop-color:#000000"
+         x="59.929264"
+         y="7.4436135"
+         id="text2183"
+         inkscape:label="hex representation"><tspan
+           sodipodi:role="line"
+           id="tspan2181"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:1.05833"
+           x="59.929264"
+           y="7.4436135">0xFD</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:1.05833;stroke-linejoin:round;stop-color:#000000"
+         x="3.1467776"
+         y="7.4436135"
+         id="text2187"
+         inkscape:label="decimal representation"><tspan
+           sodipodi:role="line"
+           id="tspan2185"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:1.05833"
+           x="3.1467776"
+           y="7.4436135">253</tspan></text>
+      <g
+         id="g2205"
+         inkscape:label="Binary Representation">
+        <circle
+           style="fill:#ff0000;fill-opacity:1;stroke:#f60000;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="circle2189"
+           cx="6.5263863"
+           cy="16.756943"
+           r="2.1166666"
+           inkscape:label="bit_7" />
+        <circle
+           style="fill:#ff7c00;fill-opacity:1;stroke:#ff7f00;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="circle2191"
+           cx="13.581938"
+           cy="16.756943"
+           r="2.1166666"
+           inkscape:label="bit_6" />
+        <circle
+           style="fill:#e7e000;fill-opacity:1;stroke:#e7e000;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="circle2193"
+           cx="20.637487"
+           cy="16.756943"
+           r="2.1166666"
+           inkscape:label="bit_5" />
+        <circle
+           style="fill:#cde900;fill-opacity:1;stroke:#cde900;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="circle2195"
+           cx="27.693037"
+           cy="16.756943"
+           r="2.1166666"
+           inkscape:label="bit_4" />
+        <circle
+           style="fill:#00ffff;fill-opacity:1;stroke:#00ffff;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="circle2197"
+           cx="35.806938"
+           cy="16.756943"
+           r="2.1166666"
+           inkscape:label="bit_3" />
+        <circle
+           style="fill:#0080ff;fill-opacity:1;stroke:#0080ff;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="circle2199"
+           cx="42.862526"
+           cy="16.756943"
+           r="2.1166666"
+           inkscape:label="bit_2" />
+        <circle
+           style="fill:none;fill-opacity:1;stroke:#8000ff;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="circle2201"
+           cx="49.918114"
+           cy="16.756943"
+           r="2.1166666"
+           inkscape:label="bit_1" />
+        <circle
+           style="fill:#ff0080;fill-opacity:1;stroke:#ff0080;stroke-width:1.05833;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+           id="circle2203"
+           cx="56.973701"
+           cy="16.756943"
+           r="2.1166666"
+           inkscape:label="bit_0" />
+      </g>
+    </g>
+  </g>
+</svg>
